@@ -6,7 +6,8 @@
 [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img> Ramon Gomes da Silva](https://orcid.org/0000-0001-8580-7695), [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img> Matheus H. D. M. Ribeiro](https://orcid.org/0000-0001-7387-9077), [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img> José H. K. Larcher](https://orcid.org/0000-0001-8654-0312), [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img> Viviana Cocco Mariani](https://orcid.org/0000-0003-2490-4568), [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img> Leandro dos Santos Coelho](https://orcid.org/0000-0001-5728-943X)
 
 ### Publication
-- [Conference paper (INSID proceedings)]()
+- [Preprint (ResearchGate)](https://www.researchgate.net/publication/346565403_Forecasting_the_cumulative_cases_of_COVID-19_in_Brazil_using_machine_learning_approaches)
+- [Conference paper (INSID proceedings)](http://insid.events/insid2020/wp-content/uploads/2020/12/Local-Proceedings-INSID-2020.pdf)
 
 ### How to cite this paper
 ```bibtex
@@ -14,10 +15,10 @@
 	title={Forecasting the cumulative cases of {COVID-19} in four large {Brazilian} cities using machine learning approaches},
 	author={{da Silva}, Ramon Gomes and Ribeiro, Matheus Henrique Dal Molin and Larcher, Jos\'e Henrique Klein\"ubing and Mariani, Viviana Cocco and Coelho, Leandro Santos},
 	booktitle={INnovation for Systems Information and Decision meeting (INSID)},
-	pages={1--8},
+	pages={60--67},
 	year={2020},
 	month={December},
 	address={Recife, Brazil},
-	doi={}
+	url={http://insid.events/insid2020/wp-content/uploads/2020/12/Local-Proceedings-INSID-2020.pdf} 
 }
 ```
